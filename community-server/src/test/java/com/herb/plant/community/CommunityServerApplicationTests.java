@@ -8,6 +8,7 @@ class CommunityServerApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
